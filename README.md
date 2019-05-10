@@ -1,5 +1,5 @@
 # InDesign bioRxiv templates
-These are InDesign templates we use for formatting preprints before submitting them to bioRxiv. See examples [here] (https://www.biorxiv.org/content/10.1101/568295v2) or [here] (https://www.biorxiv.org/content/10.1101/022962v2). There are two versions of the InDesign template, one for InDesign CC (biorxiv_template_CC2015.indd) and one for earlier version (biorxiv_template_CS4.idml).
+These are InDesign templates we use for formatting preprints before submitting them to bioRxiv. See examples [here](https://www.biorxiv.org/content/10.1101/568295v2) or [here](https://www.biorxiv.org/content/10.1101/022962v2). There are two versions of the InDesign template, one for InDesign CC (biorxiv_template_CC2015.indd) and one for earlier version (biorxiv_template_CS4.idml).
 
 # Illustrator scripts for PDF export
 These scripts automate the export of a PDF from one or several Illustrator .ai files. The 'Clean & PDF.jsx' script operates on a single open Illustrator file and exports the PDF in a 'batch_PDF' folder at the same level as the folder containing the Illustrator file. The 'Clean & PDF (batch).jsx' does not need an open Illustrator file; it will ask for an input folder and batch convert all the Illustrator files it contains, exporting the PDFs in a 'batch_PDF' folder at the same level as the chosen folder.
