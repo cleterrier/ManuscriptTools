@@ -13,4 +13,6 @@ The scripts will do the following:
 - Export the file as a PDF (see below for properties)
 - Close the Illustrator file
 
-The PDF export properties are defined at the end of the script, in the 'getPDFOptions' function. By default, it uses settings for correct proofing (300 dpi), optimizing the file size (highest quality jpeg compression). You can change the options in the function, or use your own PDF export preset by commenting out the options and call your preset from the function (see comments in the code
+The PDF export properties are defined at the end of the script, in the 'getPDFOptions' function. By default, it uses settings for correct proofing (300 dpi), optimizing the file size (highest quality jpeg compression). You can change the options in the function, or use your own PDF export preset by commenting out the options and call your preset from the function (see comments in the code).
+
+To install the scripts, add them in your Illustrator presets folder (in the Illustrator installation file, look for the 'Presets/.../Scripts' folder). They should appear in the Files>Scripts menu after relaunching Illustrator.
